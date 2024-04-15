@@ -5,7 +5,7 @@
 <div align="center">
   
   [![OS:Arch Linux](https://img.shields.io/badge/OS-Arch-blue?style=flat-square&logo=archlinux)](https://archlinux.org)
-  [![DE:GNOME](https://img.shields.io/badge/DE-GNOME-darkblue?style=flat-square&logo=GNOME)](https://gnome.org)
+  [![DE:Plasma](https://img.shields.io/badge/DE-GNOME-darkblue?style=flat-square&logo=KDE)](https://kde.org)
 
   
 </div>
